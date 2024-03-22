@@ -1,0 +1,21 @@
+ID,Platform,Genre,Title,Publisher,Purchase Date
+cod01,Xbox,Action,COD,Activision,01/01/2015
+fifa01,Xbox,Sports,FIFA,EA Sports,05/01/2015
+mine01,PlayStation,Sandbox,Minecraft,Mojang,18/03/2015
+over01,PlayStation,Shooter,Overwatch,Blizzard Entertainment,24/03/2015
+fort01,Xbox,Battle Royale,Fortnite,Epic Games,18/06/2015
+dark01,PC,RPG,Dark Souls,FromSoftware,19/06/2015
+assa01,PlayStation,Adventure,Assassin's Creed,Ubisoft,25/07/2015
+halo01,Xbox,Shooter,Halo,Microsoft Studios,15/10/2015
+elde01,PlayStation,RPG,Elden Ring,FromSoftware,24/11/2015
+doom01,Nintendo Switch,Shooter,Doom,Bethesda Softworks,07/01/2016
+cod02,Xbox,Action,COD,Activision,29/03/2016
+fifa02,Xbox,Sports,FIFA,EA Sports,31/03/2016
+mine02,PlayStation,Sandbox,Minecraft,Mojang,01/05/2016
+over02,PC,Shooter,Overwatch,Blizzard Entertainment,02/05/2016
+fort02,Mobile,Battle Royale,Fortnite,Epic Games,18/07/2016
+dark02,Xbox,RPG,Dark Souls,FromSoftware,31/08/2016
+assa02,Xbox,Adventure,Assassin's Creed,Ubisoft,14/10/2016
+halo02,Xbox,Shooter,Halo,Microsoft Studios,13/12/2016
+elde02,PlayStation,RPG,Elden Ring,FromSoftware,18/12/2016
+doom02,Nintendo Switch,Shooter,Doom,Bethesda Softworks,13/03/2017

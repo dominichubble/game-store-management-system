@@ -1,0 +1,30 @@
+GameID,Rating,Comments
+cod01,5,Excellent game!
+fifa02,4,Good but could be better.
+acr03,3,Average experience.
+tlo04,2,Not very engaging.
+cod01,5,Highly enjoyable!
+elde01,4,fun
+dark01,2,Bad game
+elde01,5,great game
+cod01,1,didnt enjoy
+halo01,4,I enjoyed
+halo01,3,was alright
+mine02,1,was really fun
+mine02,1,was really fun
+mine02,1,was really fun
+dark01,3,enjoyed game
+dark01,3,enjoyed game
+dark01,4,enjoyed game
+dark01,5,enjoyed game
+dark01,5,enjoyed game
+dark01,5,enjoyed game
+cod01,3,
+cod01,3,
+cod01,5,Great experience
+doom01,3,
+elde01,4,loved it
+assa01,1,wasnt fun
+halo03,3,decent
+cod01,5,Great experience
+elde01,4,fun
